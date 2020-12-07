@@ -1,0 +1,33 @@
+C:\Users\User\Desktop\arbri\PhoneNrLists\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\User\Desktop\arbri\PhoneNrLists\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\User\Desktop\arbri\PhoneNrLists\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\User\Desktop\arbri\PhoneNrLists\bin\Debug\netcoreapp2.2\PhoneNrLists.deps.json
+C:\Users\User\Desktop\arbri\PhoneNrLists\bin\Debug\netcoreapp2.2\PhoneNrLists.runtimeconfig.json
+C:\Users\User\Desktop\arbri\PhoneNrLists\bin\Debug\netcoreapp2.2\PhoneNrLists.runtimeconfig.dev.json
+C:\Users\User\Desktop\arbri\PhoneNrLists\bin\Debug\netcoreapp2.2\PhoneNrLists.dll
+C:\Users\User\Desktop\arbri\PhoneNrLists\bin\Debug\netcoreapp2.2\PhoneNrLists.pdb
+C:\Users\User\Desktop\arbri\PhoneNrLists\obj\Debug\netcoreapp2.2\PhoneNrLists.csprojAssemblyReference.cache
+C:\Users\User\Desktop\arbri\PhoneNrLists\obj\Debug\netcoreapp2.2\PhoneNrLists.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\arbri\PhoneNrLists\obj\Debug\netcoreapp2.2\PhoneNrLists.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\arbri\PhoneNrLists\obj\Debug\netcoreapp2.2\PhoneNrLists.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\arbri\PhoneNrLists\obj\Debug\netcoreapp2.2\PhoneNrLists.AssemblyInfo.cs
+C:\Users\User\Desktop\arbri\PhoneNrLists\obj\Debug\netcoreapp2.2\PhoneNrLists.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\arbri\PhoneNrLists\obj\Debug\netcoreapp2.2\PhoneNrLists.dll
+C:\Users\User\Desktop\arbri\PhoneNrLists\obj\Debug\netcoreapp2.2\PhoneNrLists.pdb
+C:\Users\Arber Coku\Desktop\arbri\arbri\PhoneNrLists\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Arber Coku\Desktop\arbri\arbri\PhoneNrLists\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Arber Coku\Desktop\arbri\arbri\PhoneNrLists\bin\Debug\netcoreapp2.2\PhoneNrLists.deps.json
+C:\Users\Arber Coku\Desktop\arbri\arbri\PhoneNrLists\bin\Debug\netcoreapp2.2\PhoneNrLists.runtimeconfig.json
+C:\Users\Arber Coku\Desktop\arbri\arbri\PhoneNrLists\bin\Debug\netcoreapp2.2\PhoneNrLists.runtimeconfig.dev.json
+C:\Users\Arber Coku\Desktop\arbri\arbri\PhoneNrLists\bin\Debug\netcoreapp2.2\PhoneNrLists.dll
+C:\Users\Arber Coku\Desktop\arbri\arbri\PhoneNrLists\bin\Debug\netcoreapp2.2\PhoneNrLists.pdb
+C:\Users\Arber Coku\Desktop\arbri\arbri\PhoneNrLists\obj\Debug\netcoreapp2.2\PhoneNrLists.AssemblyInfoInputs.cache
+C:\Users\Arber Coku\Desktop\arbri\arbri\PhoneNrLists\obj\Debug\netcoreapp2.2\PhoneNrLists.AssemblyInfo.cs
+C:\Users\Arber Coku\Desktop\arbri\arbri\PhoneNrLists\obj\Debug\netcoreapp2.2\PhoneNrLists.csproj.CoreCompileInputs.cache
+C:\Users\Arber Coku\Desktop\arbri\arbri\PhoneNrLists\obj\Debug\netcoreapp2.2\PhoneNrLists.RazorAssemblyInfo.cache
+C:\Users\Arber Coku\Desktop\arbri\arbri\PhoneNrLists\obj\Debug\netcoreapp2.2\PhoneNrLists.RazorAssemblyInfo.cs
+C:\Users\Arber Coku\Desktop\arbri\arbri\PhoneNrLists\obj\Debug\netcoreapp2.2\PhoneNrLists.RazorTargetAssemblyInfo.cache
+C:\Users\Arber Coku\Desktop\arbri\arbri\PhoneNrLists\obj\Debug\netcoreapp2.2\PhoneNrLists.dll
+C:\Users\Arber Coku\Desktop\arbri\arbri\PhoneNrLists\obj\Debug\netcoreapp2.2\PhoneNrLists.pdb
+C:\Users\Arber Coku\Desktop\arbri\arbri\PhoneNrLists\obj\Debug\netcoreapp2.2\PhoneNrLists.genruntimeconfig.cache
+C:\Users\Arber Coku\Desktop\arbri\arbri\PhoneNrLists\obj\Debug\netcoreapp2.2\PhoneNrLists.csprojAssemblyReference.cache

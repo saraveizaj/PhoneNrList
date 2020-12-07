@@ -1,0 +1,5 @@
+C:\Users\Arber Coku\Desktop\arbri\arbri\PhoneNrLists\obj\Debug\net5.0\PhoneNrLists.csprojAssemblyReference.cache
+C:\Users\Arber Coku\Desktop\arbri\arbri\PhoneNrLists\obj\Debug\net5.0\PhoneNrLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arber Coku\Desktop\arbri\arbri\PhoneNrLists\obj\Debug\net5.0\PhoneNrLists.AssemblyInfoInputs.cache
+C:\Users\Arber Coku\Desktop\arbri\arbri\PhoneNrLists\obj\Debug\net5.0\PhoneNrLists.AssemblyInfo.cs
+C:\Users\Arber Coku\Desktop\arbri\arbri\PhoneNrLists\obj\Debug\net5.0\PhoneNrLists.csproj.CoreCompileInputs.cache
